@@ -1,5 +1,7 @@
 # React App Starter
 
+![Build and test](https://github.com/wiwatsrt/react-starter/workflows/Build%20and%20test/badge.svg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
